@@ -1,4 +1,4 @@
-#Proje 2-Merge Sort Projesi
+h1**Proje 2-Merge Sort Projesi**
 [16,21,11,8,12,22] -> Merge Sort
 
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
@@ -14,9 +14,11 @@
 ------------------------
 
 ***2.Yukarıdaki dizinin merge sorta göre Big-O'su aşağıdaki gibidir.***
+
 Dizinin her seferinde ikiye bölündüğünden bölünmesi 
 **logn** ile ifade edilir. Her bölünmede de bütün elemanlarla 
 karşılaştırması da **n** ile ifade edilirse sonuç olarak 
-**Big-O:(nlogn)** olur.  
+**Big-O:(nlogn)** olur.
+
 |**O:(nlogn)**|
 |:---:|
